@@ -6,7 +6,9 @@ function App() {
 
   return (
     <section>
-      < HelloWorld />
+      {/* < HelloWorld /> */}
+      {/* <Calculadora /> */}
+      <CalculadoraImc />
     </section>
   )
 }
