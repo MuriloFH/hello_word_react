@@ -8,7 +8,12 @@ export default function Home(){
             <ul className="home">
                 <li>
                     <Link to="/calcuradora_imc">IMC</Link>
+                </li>
+                <li>
                     <Link to="/calculadora">Calculadora</Link>
+                </li>
+                <li>
+                    <Link to="/compras">Lista de compras</Link>
                 </li>
             </ul>
         </>

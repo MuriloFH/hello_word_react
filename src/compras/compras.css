@@ -1,0 +1,14 @@
+.comprasList {
+    width: 20%;
+    margin: auto;
+}
+
+.comprasList li {
+    text-align: left;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.comprasList button {
+    margin-bottom: 0.5rem;
+}
